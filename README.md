@@ -34,4 +34,4 @@ O objetivo final desse projeto será criar um modelo de classificação, baseado
 
 Para isso, utilizaremos ferramentas de machine learning para treinar nosso modelo a identificar esses dados e classificar as drogas de acordo com seu mecanismo de ação.
 
-
+Para melhor visualização do projeto, acessar via colab: https://colab.research.google.com/drive/14AHPpYJmuZav0-eHtj3XxN17fN5TNGpr#scrollTo=bg25q55NIfjp
