@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte da imersão dados 3 promovida pela Alur
 
 Apesar do pouco tempo que consegui disponibilizar para desenvolver esse projeto, praticamente 1 dia e meio, acredito que o resultado foi satisfatório e que principalmente o aprendizado foi muito enriquecedor.
 
-# **Do que se trata esse projeto**
+# **Do que se trata esse projeto?**
 
 Neste projeto, iremos trabalhar com o resultado de diversos experimentos e nestes experimentos foram aplicados diferentes drogas, por diferentes períodos de tempo e em diferentes doses, além disso, temos as as expressões gênicas identificadas em 772 gênes diversos e mostram numericamente como aquele experimento agiu nesses gênes. E também temos as reações desses experimentos em 100 diferentes linhagens celulares.
 
